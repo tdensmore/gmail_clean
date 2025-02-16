@@ -1,0 +1,15 @@
+{
+  "name": "gmail-clean",
+  "version": "1.0.0",
+  "description": "delete emails using the gmail api",
+  "author": "tdensmore",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "googleapis": "^144.0.0"
+  },
+  "devDependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
